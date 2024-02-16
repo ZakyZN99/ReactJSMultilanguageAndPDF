@@ -1,0 +1,59 @@
+{
+    "header": {
+      "IO": "Tujuan Investasi",
+      "FI": "Informasi Dana",
+      "RC": "Klasifikasi Risiko",
+      "Allocation": "Alokasi",
+      "Portofolio": "Portofolio",
+      "Note": "Keterangan",
+      "IMC": "Ulasan Manajer Investasi"
+    },
+    "body": {
+      "IO": "Bertujuan untuk mendapatkan pertumbuhan investasi yang tinggi dalam jangka panjang dengan menginvestasikan dananya pada instrumen pasar uang, efek pendapatan tetap termasuk obligasi pemerintah dan BUMN, dan saham publik di Indonesia.",
+      "FI": {
+        "inceptionDate " : "Tanggal Peluncuran",
+        "inceptionPrice " : "Harga Peluncuran",
+        "fundSize" : "Jumlah Dana Kelolaan",
+        "unitNum" : "Jumlah Unit Penyertaan",
+        "netAssetVal" : "Nilai Aktiva Bersih / Unit",
+        "fundCurr" : "Mata Uang",
+        "fundType" : "Jenis Dana",
+        "valuation" : "Valuasi",
+        "custodianBank" : "Bank Kustodian",
+        "AMF" : "Biaya Jasa Pengelolaan MI",
+        "BC" : "Kode Bloomberg",
+        "FM" : "Manajer Investasi" 
+    },
+      "RC": "Klasifikasi risiko ditetapkan berdasarkan jenis dana.",
+      "Allocation" : {
+        "equity" : "Saham",
+        "bond" : "Obligasi",
+        "MM" : "Pasar Uang"
+    },
+    "Portofolio" : {
+        "equity" : "Saham",
+        "GB" : "Obligasi Pemerintah",
+        "CB" : "Obligasi Korporasi",
+        "MM" : "Pasar Uang"
+    },
+      "note": {
+          "1" : "1) Kinerja disetahunkan (1 tahun = 365 hari) dan menggunakan metode compounding/majemuk (khusus untuk produk yang telah berumur lebih dari setahun sejak Tanggal Peluncuran).",
+          "2" : "2) Parameter yang digunakan adalah 50% IHSG + 50% BINDO Index.",
+          "3" : "3) Berdasarkan GICS (Global Industrials Classification Standard).",
+          "4" : "4) Nilai Aktiva Bersih/Unit sudah memperhitungkan biaya-biaya, diantaranya biaya yang terkait dengan transaksi dan penyelesaian transaksi serta administrasi dan pencatatan."
+      },
+      "IMC": "Ekspektasi “higher for longer” dari The Fed karena inflasi tetap tinggi sementara naiknya tensi geopolitik di Timur Tengah menyebabkan spekulasi harga energi menambah tekanan di pasar finansial global. Imbal hasil UST 10-tahun menembus level 5%, level tertinggi sejak 2007, dan indeks DXY terus menguat, yang meningkatkan fluktuasi pasar. Dalam kondisi tersebut pasar saham secara global mengalami koreksi. Pasar saham Indonesia turun namun masih unggul dari pasar saham global, kawasan negara berkembang dan Asia Pacific ex Japan. Pasar obligasi juga mencatat kinerja negatif. Di pasar domestik, Bank Indonesia menaikkan suku bunga acuan 7DRRR dari 5.75% ke 6.00% untuk menjaga stabilitas IDR di tengah volatilitas global dan narasi “higher for longer.” Naiknya suku bunga juga diikuti oleh pelonggaran kebijakan makroprudensial. BI meluncurkan 2 instrumen moneter baru, SVBI, yakni versi valas dari SRBI, dan SUVBI, versi sukuk dari SVBI.",
+      "disclaimer": "Laporan ini dipersiapkan oleh PT Asuransi Jiwa Manulife Indonesia hanya untuk keperluan informasi dan tidak seharusnya digunakan sebagai penawaran penjualan atau permohonan pembelian. Meskipun laporan ini telah dipersiapkan dengan seksama, PT Asuransi Jiwa Manulife Indonesia tidak menjamin keakuratan, kecukupan atau kelengkapan informasi yang diberikan, serta tidak bertanggung jawab atas segala konsekuensi apapun yang timbul akibat dari tindakan yang dilakukan atas dasar informasi dalam laporan ini. Investasi pada instrumen pasar modal mengandung risiko termasuk namun tidak terbatas pada risiko pasar, risiko kredit, risiko perubahan tingkat suku bunga, risiko nilai tukar (khususnya untuk Dana yang memiliki alokasi pada instrumen investasi luar negeri dalam mata uang yang berbeda dengan mata uang Dana), risiko likuiditas dan risiko lainnya yang dapat menyebabkan fluktuasi kinerja. Oleh karena itu kinerja Dana tidak dijamin, nilai unit penyertaan dalam Dana dapat bertambah atau berkurang dan kinerja investasi masa lalu tidak mengindikasikan kinerja investasi di masa depan."
+    },
+    "footer" : {
+      "aboutus" : "Didirikan pada tahun 1985, PT Asuransi Jiwa Manulife Indonesia (Manulife Indonesia) merupakan bagian dari Manulife Financial Corporation, grup penyedia layanan keuangan dari Kanada yang beroperasi di Asia, Kanada dan Amerika Serikat. Manulife Indonesia menawarkan beragam layanan keuangan termasuk asuransi jiwa, asuransi kecelakaan dan kesehatan, layanan investasi dan dana pensiun kepada konsumen individu maupun pelaku usaha di Indonesia. Melalui jaringan dengan jumlah hampir mencapai 11,000 karyawan dan agen profesional yang tersebar di lebih dari 30 kantor pemasaran, Manulife Indonesia melayani sekitar 2 juta nasabah di Indonesia.",
+      "followus" : "PT Asuransi Jiwa Manulife Indonesia Berizin dan Diawasi oleh Otoritas Jasa Keuangan (OJK). Untuk informasi lebih lengkap mengenai Manulife Indonesia, kunjungi akun resmi kami di Facebook, Twitter, Instagram, YouTube, dan www.manulife.co.id."
+    },
+    "etc":{
+      "disclaimer": "Sanggahan: ",
+      "billion": "miliar",
+      "daily": "Harian",
+      "balanced": "Campuran"
+    }
+  }
+  

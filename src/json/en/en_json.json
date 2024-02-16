@@ -1,0 +1,58 @@
+{
+  "header": {
+    "IO": "Investment Objective",
+    "FI": "Fund Information",
+    "RC": "Risk Classification",
+    "Allocation": "Allocation",
+    "Portofolio": "Portofolio",
+    "Note": "Note",
+    "IMC": "Investment Manager Commentary"
+  },
+  "body": {
+    "IO": "To provide a high rate of capital growth over the long-term by investing in diversified portfolio of money market, fixed income securities including sovereign and state- backed bonds, and publicly listed Indonesian equities.",
+    "FI": {
+        "inceptionDate" : "Inception Date",
+        "inceptionPrice" : "Inception Price ",
+        "fundSize" : "FundSize",
+        "unitNum" : "Number of Unit",
+        "netAssetVal" : "Net Asset Value/Unit",
+        "fundCurr" : "Fund Currency",
+        "fundType" : "Type of Fund",
+        "valuation" : "Valuation",
+        "custodianBank" : "Custodian Bank",
+        "AMF" : "Annual Management Fee",
+        "BC" : "Bloomberg Code",
+        "FM" : "Fund Manager" 
+    },
+    "RC": "Risk classification is based on type of fund.",
+    "Allocation" : {
+        "equity" : "Equity",
+        "bond" : "Bond",
+        "MM" : "Money Market"
+    },
+    "Portofolio" : {
+        "equity" : "Equity",
+        "GB" : "Goverment Bond",
+        "CB" : "Corporate Bond",
+        "MM" : "Money Market"
+    },
+    "note": {
+        "1" : "1) Annualized (1 year = 365 days) and using compound method (for products that have been more than one year old since inception).",
+        "2" : "2) The Benchmark is 50% JCI + 50% BINDO Index.",
+        "3" : "3) Based on GICS (Global Industrials Classification Standard).",
+        "4" : "4) The Net Asset Value / Unit has calculated the costs, including fees related to transaction and transaction settlement as well as administration and recording."
+    },
+    "IMC": "Expectations on The Fed’s “higher for longer” rate policy as inflation remains high while increased tension in the middle east triggered speculations on increased energy prices added pressure on global financial market. The 10-year UST yield broke the 5% level, highest since 2007, and DXY index continued strengthening, further worsened market volatilities. As such, equity markets everywhere were corrected. Indonesia equity market was down but still outperforming the global market, emerging market and Asia Pacific ex Japan. Indonesia bond market also recorded negative monthly performance. On the domestic front, Bank Indonesia (BI) eventually increased the 7DRRR to 6.00% from 5.75% in the recent meeting to keep IDR steady amidst global uncertainty and continuous higher-for-longer theme. The rate hike was accompanied with loosening macroprudential policies. Bank Indonesia also introduced 2 new monetary instruments, SVBI, a foreign exchange version of SRBI, and SUVBI, a sukuk version of SVBI",
+    "disclaimer": "This report is prepared by PT Asuransi Jiwa Manulife Indonesia only for information purposes and not to be used as a sales offering or proposal. Although this report has been prepared meticulously, PT Asuransi Jiwa Manulife Indonesia does not guarantee its accuracy, sufficiency or completeness, and is not responsible for any consequences arising from any actions which are based on the information stated herein. Investments in capital market instruments are subject to various risks which include, but not limited to, market risk, credit risk, interest rate risk, exchange rate risk (particularly in Fund which has allocation in offshore investment instruments in different currencies than the Fund’s currency), liquidity risk and other risks which could result in performance volatility. Therefore, the performance of this Fund is not guaranteed, the unit price of each Fund may go up or down and past performance does not necessarily indicative of future performance."
+  },
+  "footer" : {
+    "aboutus" : "Established in 2015, PT Asuransi Jiwa Manulife Indonesia (Manulife Indonesia) is part of Manulife Financial Corporation Group, a Canadian financial services group that operates in Asia, Canada and the United States. Manulife Indonesia offers a wide range of financial services, including life insurance, accident and health insurance, investment and pension plans to individual customers and group clients in Indonesia. Through a network of almost 11.000 employees and professional agents spread across more than 30 sales offices, Manulife Indonesia serves around 2 million customers in Indonesia.",
+    "followus" : "PT Asuransi Jiwa Manulife Indonesia are licensed and supervised by the Otoritas Jasa Keuangan (OJK). To learn more about Manulife Indonesia, follow us on Facebook, Twitter, Instagram, YouTube, or visit www.manulife.co.id."
+  },
+  "etc":{
+    "disclaimer": "Disclaimer: ",
+    "billion": "bn",
+    "daily": "Daily",
+    "balanced": "Balanced"
+  }
+}

@@ -1,38 +1,143 @@
 .App {
-  text-align: center;
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+@page {
+  size: A4;
+  margin: 0;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+@media print {
+  html, body {
+    width: 210mm;
+    height: 297mm;
   }
+  
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+* {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+.manulifeData{
+  text-align: center;
+  position: relative;
+  margin: 0;
+  width: 21cm;
+  min-height: 29.7cm;
+  padding: 20px;
+  margin: 0cm auto;
+  border: 1px #D3D3D3 solid;
+  border-radius: 5px;
+  background: white;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.img-header{
+  width: 70%;
+  padding-bottom: 10px;
+}
+.img-header-manulife{
+  width: 70%;
+  padding-right: 2px;
+  height: 80px;
+}
+.img-header-factsheet{
+  width: 30%;
+  height: 80px;
+}
+
+
+.manulife-title{
+  font-size: 20px;
+  font-weight: 500;
+  text-align: center;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-items: center;
+}
+.date-info{
+  text-align: center;
+  /* width: 100%;  */
+  font-size: 15px;
+  font-weight: bold;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid #15AB62;
+  padding: 10px 30px 10px 25px;
+
 }
 
-.App-link {
-  color: #61dafb;
+.main-title{
+  text-align: justify;
+  font-size: 12px;
+  font-weight: bold;
+  color: #D06229;
+  margin: 0;
+  border-bottom: 2px solid #15AB62;
 }
+.main-title-IMC{
+  text-align: center;
+  font-size: 12px;
+  font-weight: bold;
+  color: #D06229;
+  margin: 0;
+  border-bottom: 2px solid #15AB62;
+}
+.main-paragraph{
+  text-align: justify;
+  font-size: 8px;
+  font-weight: 400;
+  color: #000000;
+  margin: 0;
+  padding-bottom: 5px;
+}
+.main-paragraph-IMC{
+  text-align: justify;
+  font-size: 8px;
+  font-weight: 400;
+  color: #000000;
+  margin: 0;
+  padding-bottom: 20px;
+}
+.main-paragraph-number{
+  text-align: justify;
+  font-size: 8px;
+  font-weight: 400;
+  color: #000000;
+  margin: 0;
+}
+.main-paragraph-disclaimer{
+  text-align: justify;
+  font-size: 8px;
+  color: #3429d0;
+  margin: 0;
+  border-top: 2px solid #15AB62;
+  padding-bottom: 5px;
+}
+.about-company{
+  
+  background: #15AB62;
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+}
+.main-company-title{
+  text-align: justify;
+  font-size: 12px;
+  font-weight: bold;
+  color: #ffff;
+  margin: 0;
+}
+.main-company-paragraph{
+  text-align: justify;
+  font-size: 8px;
+  font-weight: 400;
+  color: #ffff;
+  margin: 0;
+
+}
+.manulife-footer{
+  border-top: 2px solid #15AB62;
+  font-size: 8px;
+}
+.space{
+  padding-bottom: 20px;
 }
