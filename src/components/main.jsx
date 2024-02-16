@@ -15,7 +15,7 @@ export const MultiLanguage = () => {
     setTranslate.changeLanguage(lng);
     const input = document.getElementById("manulifeData");
 
-    html2canvas(input).then((canvas) => {
+    html2canvas(input, { scale: 1.5 }).then((canvas) => {
       const imgData = canvas.toDataURL("image/png");
       const pdf = new jsPDF();
       const imgWidth = 210;
